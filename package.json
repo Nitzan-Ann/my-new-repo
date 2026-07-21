@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "big-integer": "^1.6.52",
+    "express": "^5.2.1",
+    "sqlite3": "^6.0.1"
+  },
+  "name": "my_first_repository",
+  "description": "",
+  "version": "1.0.0",
+  "main": "main.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "test": "node --test node/unit_tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nitzan-Ann/my-new-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nitzan-Ann/my-new-repo/issues"
+  },
+  "homepage": "https://github.com/Nitzan-Ann/my-new-repo#readme"
+}
